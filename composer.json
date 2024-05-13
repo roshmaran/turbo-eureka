@@ -6,7 +6,7 @@
             "email": "roshini+biz1@runcloud.io"
         }
     ],
-    "require": {}
+    
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
