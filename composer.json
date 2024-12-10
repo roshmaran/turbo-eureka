@@ -6,5 +6,7 @@
             "email": "roshini4@runcloud.io"
         }
     ],
-    "require": {}
+    "require": {
+         "php": ">=8.1"
+    }
 }
