@@ -1,1 +1,2 @@
 entering another data in second file 
+entering new line in the same file
